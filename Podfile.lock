@@ -1,0 +1,43 @@
+PODS:
+  - KeychainAccess (4.2.2)
+  - KissXML (5.3.1):
+    - KissXML/All (= 5.3.1)
+  - KissXML/Additions (5.3.1):
+    - KissXML/Core
+  - KissXML/All (5.3.1):
+    - KissXML/Additions
+    - KissXML/Core
+  - KissXML/Core (5.3.1)
+  - MBProgressHUD (1.2.0)
+  - Reachability (3.7.6)
+  - SBJson (5.0.3)
+  - SSZipArchive (2.4.3)
+
+DEPENDENCIES:
+  - KeychainAccess
+  - KissXML (~> 5.3.0)
+  - MBProgressHUD
+  - Reachability
+  - SBJson
+  - SSZipArchive
+
+SPEC REPOS:
+  trunk:
+    - KeychainAccess
+    - KissXML
+    - MBProgressHUD
+    - Reachability
+    - SBJson
+    - SSZipArchive
+
+SPEC CHECKSUMS:
+  KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
+  KissXML: 5c8e0f2e8b9f071d3e1ae123dec3eb5da615c10c
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  Reachability: fd0ecd23705e2599e4cceeb943222ae02296cbc6
+  SBJson: 31813d1508edec904663cd59e71e0225d9dd8e07
+  SSZipArchive: fe6a26b2a54d5a0890f2567b5cc6de5caa600aef
+
+PODFILE CHECKSUM: a977ced79620a603381e5e1565a083a128f30e50
+
+COCOAPODS: 1.15.2

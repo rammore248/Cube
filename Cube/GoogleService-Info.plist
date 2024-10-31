@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCfWmV1TP7gZOPjukr0cmQvX7DW5lsTStE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>178663284964</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>cfs.Cube</string>
+	<key>PROJECT_ID</key>
+	<string>cube-swift-4591b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cube-swift-4591b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:178663284964:ios:3cfceb96993a8610254cf1</string>
+</dict>
+</plist>
